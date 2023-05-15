@@ -12,4 +12,7 @@ return {
   { import = "astrocommunity.pack.php" },
   { import = "astrocommunity.pack.yaml" },
   { import = "astrocommunity.pack.docker" },
+  -- mini library
+  { import = "astrocommunity.motion.mini-surround" },
+  { import = "astrocommunity.motion.mini-move" },
 }
